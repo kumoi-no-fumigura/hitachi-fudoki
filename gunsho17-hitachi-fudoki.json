@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/hitachi-fudoki",
  "yomi": "ひたちのくにふどき",
  "category": "地誌",
- "description": null,
+ "description": {
+  "kind": "風土記",
+  "era": "奈良時代",
+  "author": "未詳（常陸国司）",
+  "desc": "常陸国が古老の伝える旧聞を上申した風土記。国名の由来や倭武天皇の巡行伝承などを郡ごとに記す。伝本は所々を「以下略之」として省いている。"
+ },
  "editions": [
   {
    "pid": "1879565",
